@@ -1,0 +1,3 @@
+dmx.config({
+  "index": {}
+});

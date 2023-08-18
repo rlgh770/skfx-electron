@@ -1,0 +1,6 @@
+{
+  "appId": "com.skillfoxx.app",
+  "appName": "skillfoxx",
+  "webDir": "www",
+  "bundledWebRuntime": true
+}
