@@ -4,6 +4,7 @@
   "dependencies": {
     "@capacitor-community/electron": "^1.4.2",
     "@capacitor/core": "^4.6.0",
+    "@octokit/rest": "^20.0.1",
     "capacitor": "^0.0.3",
     "electron-edge-js": "^23.0.0",
     "electron-reload": "^2.0.0-alpha.1",
